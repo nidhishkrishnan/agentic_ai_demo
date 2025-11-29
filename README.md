@@ -1,4 +1,4 @@
-## ✅ **Demo 1:** Researcher → Writer → Editor (Photosynthesis)    
+## ✅ **Demo 1:** Story Maker → Writer → Editor (Photosynthesis)    
 ## ✅ **Demo 2:** Travel Planner (user enters a city → 3 agents create itinerary)
 
 Both examples are explained clearly for classroom use.
@@ -22,7 +22,7 @@ This demo includes **two real examples**:
 
 ---
 
-# 📘 **Demo 1: Research → Write → Edit (Photosynthesis Example)**
+# 📘 **Demo 1: Story Maker : Research → Write → Edit (Photosynthesis Example)**
 
 Imagine you have to write a short paragraph about **Photosynthesis**.
 Instead of doing it all yourself, an AI team works together:
@@ -140,7 +140,7 @@ python-dotenv
 ### ▶️ **Demo 1: Research → Write → Edit**
 
 ```
-python main.py
+python story_maker.py
 ```
 
 You will see each agent thinking and generating output step-by-step.
@@ -174,7 +174,7 @@ Here are fun classroom activities you can try:
 
 ### 🔹 Change the topic (Demo 1)
 
-Inside `main.py`, modify:
+Inside `story_maker.py`, modify:
 
 ```python
 topic = "The Solar System"
