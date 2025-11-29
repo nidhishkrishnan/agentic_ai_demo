@@ -1,0 +1,5 @@
+crewai
+langchain_openai
+langchain_community
+langchain_ollama
+litellm
